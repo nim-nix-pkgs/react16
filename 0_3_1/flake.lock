@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-react16-0_3_1": "src-react16-0_3_1"
+        "src-react-0_3_1": "src-react-0_3_1"
       }
     },
-    "src-react16-0_3_1": {
+    "src-react-0_3_1": {
       "flake": false,
       "locked": {
         "lastModified": 1580199911,
